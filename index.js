@@ -63,8 +63,8 @@ client.on('message', message => {
 
 
 
-const prefix = "البرفكس هنا"
-const developers = "الايدي بتاعك هنا"
+const prefix = "#"
+const developers = "454760496084811787"
 
 
 
